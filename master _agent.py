@@ -12,3 +12,6 @@ class MasterAgent:
 if _name_ == "_main_":
     agent = MasterAgent()
     agent.start()
+print("Master AI Agent is ready, part 2")
+
+
