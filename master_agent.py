@@ -9,7 +9,7 @@ class MasterAgent:
         print("Welcome to Global AI Business System")
         print("Master AI Agent is ready!")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     agent = MasterAgent()
     agent.start()
 print("Master AI Agent is ready, part 2")
