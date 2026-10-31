@@ -14,6 +14,6 @@ if __name__ == "__main__":
     agent.start()
 print("Master AI Agent is ready, part 2")
 
-def main():।
+def main():
     print("AI Agent started")
 main()
